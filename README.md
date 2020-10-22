@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there!! 👋 I'm Kevin
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" width="32" height="32">I'm a developer spending most of my time working the the full MERN stack technologies and absolutely love every second of it! I think software is amazing and want to be a part of it every step of the way.<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" width="32" height="32"> 
+
 
 <!--
 **kevinlens/kevinlens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
