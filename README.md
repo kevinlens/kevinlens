@@ -1,5 +1,5 @@
 ### Hey there! 👋 I'm Kevin
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" width="32" height="32">I'm a developer spending most of my time working with the Frontend UI technologies and the full MERN stack as well. I think software is amazing and want to be a part of it every step of the way.<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" width="32" height="32"> 
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" width="32" height="32">I'm a Frontend UI developer who specializes in frontend technologies like React but sometimes I also do the full MERN stack. I think software is amazing and want to be a part of it every step of the way.<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" width="32" height="32"> 
 
 
 <!--
