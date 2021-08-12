@@ -1,5 +1,5 @@
 ### Hey! How's it going? 👋 I'm Kevin
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" width="32" height="32">A Full-Stack developer. I think software is amazing and I'm grateful to be a part of it!<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" width="32" height="32"> 
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" width="32" height="32"> A software developer. I love talking tech! <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" width="32" height="32"> 
 
 
 <!--
