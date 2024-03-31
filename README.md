@@ -15,9 +15,7 @@
 <a href="mailto:kevinmt191919@gmail.com">![E-Mail](https://img.shields.io/badge/email-2a8?style=flat-square&logo=gmail&logoColor=white)</a>
 [![GitHub smilelk4](https://img.shields.io/github/followers/smilelk4?label=follow&style=social)](https://github.com/kevinlens)
 
-Check out my portfolio [here](https://yukamoribe.com/).
-
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=smilelk4&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="smilelk4" /> </p>
+Check out my portfolio [here](https://kevinlens.github.io/).
 
 ### Languages and Tools:
 <p align="left">
