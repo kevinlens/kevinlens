@@ -19,10 +19,6 @@ Check out my portfolio [here](https://yukamoribe.com/).
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=smilelk4&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="smilelk4" /> </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smilelk4&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="smilelk4" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smilelk4&theme=tokyonight&hide_border=true" alt="smilelk4" /></p>
-
 ### Languages and Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
