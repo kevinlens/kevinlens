@@ -5,13 +5,13 @@
 ### I'm a passionate fullstack web developer with a massive curious mind.
 
 - 🔭&nbsp; I'm currently practicing DSA.
-- 🌱&nbsp; I'm currently focusing on polishing up projects, but the plan is to soon start learning TypeScript and testing libraries like Jest.
+- 🌱&nbsp; I'm currently focusing on polishing up projects, but the plan is to soon start learning Postgresql and testing libraries like Vitest.
 - 💻 &nbsp; I’m looking to collaborate on any exciting open source project.
 - 💬 &nbsp; Ask me about anything!
 - ⚡&nbsp; Fun fact: I love to travel.
 
 📫 &nbsp; Please feel free to contact me.<br>
-[![Linkedin: yukamoribe](https://img.shields.io/badge/-kevintran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-t-7433a318b/)](https://www.linkedin.com/in/kevin-t-7433a318b/)
+[![Linkedin: Kevin Tran](https://img.shields.io/badge/-kevintran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-t-7433a318b/)](https://www.linkedin.com/in/kevin-t-7433a318b/)
 <a href="mailto:yukamoribe@gmail.com">![E-Mail](https://img.shields.io/badge/email-2a8?style=flat-square&logo=gmail&logoColor=white)</a>
 [![GitHub smilelk4](https://img.shields.io/github/followers/smilelk4?label=follow&style=social)](https://github.com/smilelk4)
 
